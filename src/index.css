@@ -1,0 +1,14 @@
+.btn-blue{
+    background-color: #87CEFA;
+}
+
+.btn-blue:hover{
+    background-color: #74baf3;
+    transition: background-color 0.3s linear;
+}
+
+.card-custom{
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    background-color: rgba(255, 255, 255, .5);
+}
