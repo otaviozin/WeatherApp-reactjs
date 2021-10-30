@@ -1,5 +1,3 @@
-![Licença](https://img.shields.io/github/license/otaviozin/WeatherApp-reactjs?style=flat-square)
-
 # Resumo
 Weather App é um site feito com a API Open Weather para consulta de clima em cidades do mundo todo.
 
